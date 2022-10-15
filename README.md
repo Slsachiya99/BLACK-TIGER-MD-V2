@@ -8,16 +8,16 @@
 
   <p align="center">
 
-<a href="#"><img title="SACHIYA-MD" src="https://img.shields.io/badge/astro-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SACHIYA-MD" src="https://img.shields.io/badge/sachiya-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
 </div>
 
-#### <p align="center">By Vihanga YT| © | Reserved  </br> 
+#### <p align="center">By SACHIYA YT| ❊ | Reserved  </br> 
 
 # BLACK-TIGER-MD-V2
-#### TOTAL REPO VIEWS📍
+#### ~*TOTAL REPO VIEWS ♲*~
 ![Visitor Count](https://profile-counter.github.com/Slsachiya99/SACHIYA-MD-V6/tree/SACHIYA-MD-V6)
 
     [♲] BLACK-TIGER-MD-V2 New Features
