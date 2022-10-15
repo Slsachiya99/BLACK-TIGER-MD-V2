@@ -1,5 +1,5 @@
 {
-  "name": "AstroBot-MD",
+  "name": "BLACK TIGER MD",
   "version": "2.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "VihangaYT",
+  "author": "SACHIYA YT",
   "license": "MIT",
   "dependencies": {
 "@adiwajshing/baileys": "git+https://github.com/sanuwaofficial/Baileys.git",
