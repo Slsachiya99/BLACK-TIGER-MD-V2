@@ -2,13 +2,13 @@
 
   <p align="center">
 
-<img src="https://telegra.ph/file/b8e8a0b9a9e4d8ab0fed0.jpg" alt="GIF" width="300" height="270"/>
+<img src="https://i.imgur.com/XHhlqtK.jpeg" alt="GIF" width="300" height="270"/>
 
 </p>
 
   <p align="center">
 
-<a href="#"><img title="Astro-MD" src="https://img.shields.io/badge/astro-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SACHIYA-MD" src="https://img.shields.io/badge/astro-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
@@ -16,11 +16,11 @@
 
 #### <p align="center">By Vihanga YT| © | Reserved  </br> 
 
-# ASTRO-BOT-MD-V1.0
+# BLACK-TIGER-MD-V2
 #### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+![Visitor Count](https://profile-counter.github.com/Slsachiya99/SACHIYA-MD-V6/tree/SACHIYA-MD-V6)
 
-    [©] AstroBot-MD New Features
+    [♲] BLACK-TIGER-MD-V2 New Features
 
      > Playstore Apk Downloder [.downapk]
      > Playstore Apk searcher [.apk]
@@ -31,7 +31,7 @@
      > Spotify down and searcher [.spotify]
      > and more...  
    
-   ```Thanks Fro using Astro-MD```
+   ```Thanks Fro using BLACK-TIGER-MD-V2```
    
 # Support Group <a href="https://chat.whatsapp.com/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
@@ -55,7 +55,7 @@
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+* [`SACHIYA-YT`](https://github.com/vihangayt0)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
