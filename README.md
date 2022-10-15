@@ -45,7 +45,7 @@
 
 1. Click [SCAN](https://replit.com/@Slsachiya99/BLACK-TIGER-MD-V1-3?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/vihangayt0/Astro-MD/fork)
+2. Click [FORK](https://github.com/Slsachiya99/BLACK-TIGER-MD-V2/upload/master)
 
 2. After That Upload Session.json File
 
@@ -55,9 +55,9 @@
 
 
 ## Owner:
-* [`SACHIYA-YT`](https://github.com/Slsachiya99)
+* [`SACHIYA-Github`](https://github.com/Slsachiya99)
 
-## Thanks To
+## ❤️Thanks To❤️
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`MR.Nima`](https://github.com/DarkMakerofc)
 * [`EDM-OFFICIAL`](https://github.com/edm-official)
