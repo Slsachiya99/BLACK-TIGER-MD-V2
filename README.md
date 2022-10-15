@@ -41,9 +41,9 @@
 
 </p>
 
- ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
+ ## My Website : [Click Heare](https://github.com/Slsachiya99/SACHIYA-MD-V6/tree/SACHIYA-MD-V6)
 
-1. Click [SCAN](https://astro-qr.astromdqr.repl.co/) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@Slsachiya99/BLACK-TIGER-MD-V1-3?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. Click [FORK](https://github.com/vihangayt0/Astro-MD/fork)
 
